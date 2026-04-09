@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": ""
+            }
+        ],
+        "Description": "",
+        "Id": "before installing WhiteSur KDE Theme",
+        "License": "",
+        "Name": "before installing WhiteSur KDE Theme",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "default"
+}

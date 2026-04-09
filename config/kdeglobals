@@ -1,0 +1,170 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025000000000000001
+ColorEffect=2
+ContrastAmount=0.10000000000000001
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=51,131,177
+BackgroundNormal=29,33,47
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=180,188,218
+ForegroundLink=61,174,233
+ForegroundNegative=191,97,106
+ForegroundNeutral=58,129,179
+ForegroundNormal=214,219,241
+ForegroundPositive=0,106,128
+ForegroundVisited=0,106,128
+
+[Colors:Complementary]
+BackgroundAlternate=29,33,47
+BackgroundNormal=29,33,47
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=180,188,218
+ForegroundLink=61,174,233
+ForegroundNegative=191,97,106
+ForegroundNeutral=78,122,179
+ForegroundNormal=214,219,241
+ForegroundPositive=0,106,128
+ForegroundVisited=235,203,139
+
+[Colors:Header]
+BackgroundAlternate=29,33,47
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=180,188,218
+ForegroundLink=61,174,233
+ForegroundNormal=214,219,241
+
+[Colors:Selection]
+BackgroundAlternate=51,131,177
+BackgroundNormal=51,131,177
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=0,0,0
+ForegroundLink=183,220,251
+ForegroundNegative=191,97,106
+ForegroundNeutral=58,129,179
+ForegroundNormal=0,0,0
+ForegroundPositive=0,106,128
+ForegroundVisited=0,106,128
+
+[Colors:Tooltip]
+BackgroundAlternate=29,33,47
+BackgroundNormal=29,33,47
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=180,188,218
+ForegroundLink=61,174,233
+ForegroundNegative=191,97,106
+ForegroundNeutral=58,129,179
+ForegroundNormal=214,219,241
+ForegroundPositive=0,106,128
+ForegroundVisited=0,106,128
+
+[Colors:View]
+BackgroundAlternate=29,33,47
+BackgroundNormal=29,33,47
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=180,188,218
+ForegroundLink=61,174,233
+ForegroundNegative=191,97,106
+ForegroundNeutral=58,129,179
+ForegroundNormal=214,219,241
+ForegroundPositive=0,106,128
+ForegroundVisited=0,106,128
+
+[Colors:Window]
+BackgroundAlternate=29,33,47
+BackgroundNormal=29,33,47
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=180,188,218
+ForegroundLink=61,174,233
+ForegroundNegative=191,97,106
+ForegroundNeutral=58,129,179
+ForegroundNormal=214,219,241
+ForegroundPositive=0,106,128
+ForegroundVisited=0,106,128
+
+[General]
+AccentColor=61,174,233
+ColorSchemeHash=ad2e88207cd85f33b0ffb8efcac7252d16466a5a
+LastUsedCustomAccentColor=61,174,233
+UseSystemBell=true
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+fixed=Noto Sans Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+font=Noto Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=Noto Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+smallestReadableFont=Noto Sans,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+toolBarFont=Noto Sans,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[Icons]
+Theme=McMojave-circle-dark
+
+[KDE]
+AnimationDurationFactor=0.35355339059327373
+LookAndFeelPackage=before installing WhiteSur KDE Theme
+contrast=4
+frameContrast=0.2
+widgetStyle=kvantum-dark
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=DetailTree
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[Shortcuts]
+KeyBindings=Ctrl+Alt+,; Ctrl+Alt+/
+Preferences=Ctrl+Shift+,; Ctrl+?
+
+[WM]
+activeBackground=29,33,47
+activeBlend=29,33,47
+activeForeground=214,219,241
+inactiveBackground=29,33,47
+inactiveBlend=29,33,47
+inactiveForeground=192,197,217
