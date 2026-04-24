@@ -13,4 +13,4 @@ when i make changes to the repo i :
 
   1- enter the folder ==== cd kde-config
   
-  2- run the sync.sh to sync my folder to gitub ======= sync.sh    
+  2- run the sync.sh to sync my folder to gitub ======= ./sync.sh    
