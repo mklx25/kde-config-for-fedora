@@ -23,6 +23,10 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][e70e8388-8bb8-4513-8b08-2e649ad40f9b][a22968e2-5f21-43d2-9f41-15b53ed4216b]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][fb9b490b-6525-43cb-8fd3-4ea557abe68b][575a1283-337f-486f-a52f-fff73a61fec9]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
@@ -32,7 +36,6 @@ padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Wayland]
-InputMethod[$d]
 VirtualKeyboardEnabled=true
 
 [Windows]

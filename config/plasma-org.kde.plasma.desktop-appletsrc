@@ -126,11 +126,12 @@ plugin=org.kde.plasma.digitalclock
 
 [Containments][93][Applets][117][Configuration]
 popupHeight=451
-popupWidth=560
+popupWidth=810
 
 [Containments][93][Applets][117][Configuration][Appearance]
 autoFontAndSize=false
 boldText=true
+enabledCalendarPlugins=alternatecalendar
 fontFamily=Noto Sans
 fontStyleName=Bold Italic
 fontWeight=700
@@ -161,7 +162,7 @@ hiddenWidgets={"widgets":[{"name":"org.kde.plasma.colorpicker","id":115,"hide":t
 hideWidget=true
 isEnabled=false
 lastPreset=/home/mklx25/.local/share/plasma/plasmoids/luisbocanegra.panel.colorizer/contents/ui/presets/Fake Floating
-panelWidgets=[{"id":115,"name":"org.kde.plasma.colorpicker","title":"Color Picker","icon":"color-picker","inTray":false},{"id":96,"name":"org.kde.plasma.systemtray","title":"System Tray","icon":"preferences-desktop-notification","inTray":false},{"id":117,"name":"org.kde.plasma.digitalclock","title":"Digital Clock","icon":"preferences-system-time","inTray":false},{"id":149,"name":"luisbocanegra.panel.colorizer","title":"Panel colorizer","icon":"desktop","inTray":false},{"id":-1,"name":"org.kde.plasma.notifications","title":"Notifications","icon":"notification-inactive-symbolic","inTray":true},{"id":-1,"name":"org.kde.plasma.mediacontroller","title":"Media Player","icon":"media-playback-paused-symbolic","inTray":true},{"id":-1,"name":"org.kde.plasma.volume","title":"Audio Volume","icon":"audio-volume-medium-symbolic","inTray":true},{"id":-1,"name":"org.kde.plasma.networkmanagement","title":"Networks","icon":"network-wired-activated-symbolic","inTray":true},{"id":-1,"name":"org.kde.plasma.battery","title":"Power and Battery","icon":"battery-full-symbolic","inTray":true},{"id":-1,"name":"org.kde.plasma.systemtray.expand","title":"Close popup","icon":"arrow-down","inTray":true}]
+panelWidgets=[{"id":115,"name":"org.kde.plasma.colorpicker","title":"Color Picker","icon":"color-picker","inTray":false},{"id":96,"name":"org.kde.plasma.systemtray","title":"System Tray","icon":"preferences-desktop-notification","inTray":false},{"id":117,"name":"org.kde.plasma.digitalclock","title":"Digital Clock","icon":"preferences-system-time","inTray":false},{"id":149,"name":"luisbocanegra.panel.colorizer","title":"Panel colorizer","icon":"desktop","inTray":false},{"id":-1,"name":"org.kde.plasma.notifications","title":"Notifications","icon":"notification-inactive-symbolic","inTray":true},{"id":-1,"name":"Discover Notifier_org.kde.DiscoverNotifier","title":"Updates","icon":"update-low-symbolic","inTray":true},{"id":-1,"name":"org.kde.plasma.volume","title":"Audio Volume","icon":"audio-volume-high-symbolic","inTray":true},{"id":-1,"name":"org.kde.plasma.networkmanagement","title":"Networks","icon":"network-wireless-60-symbolic","inTray":true},{"id":-1,"name":"org.kde.plasma.battery","title":"Power and Battery","icon":"battery-full-symbolic","inTray":true},{"id":-1,"name":"org.kde.plasma.systemtray.expand","title":"Show hidden icons","icon":"arrow-down","inTray":true}]
 
 [Containments][93][Applets][96]
 activityId=
@@ -181,10 +182,6 @@ plugin=org.kde.plasma.clipboard
 [Containments][93][Applets][96][Applets][101]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
-
-[Containments][93][Applets][96][Applets][102]
-immutability=1
-plugin=org.kde.plasma.manage-inputmethod
 
 [Containments][93][Applets][96][Applets][103]
 immutability=1
@@ -254,7 +251,7 @@ DialogWidth=810
 
 [Containments][93][Applets][96][General]
 disabledStatusNotifiers=Xwayland Video Bridge_pipewireToXProxy,chrome_status_icon_1
-extraItems=org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.manage-inputmethod,org.kde.plasma.networkmanagement,org.kde.plasma.vault,org.kde.kscreen,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.printmanager,org.kde.plasma.brightness,org.kde.kdeconnect,org.kde.plasma.keyboardlayout,org.kde.plasma.notifications
+extraItems=org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.vault,org.kde.kscreen,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.printmanager,org.kde.plasma.brightness,org.kde.kdeconnect,org.kde.plasma.keyboardlayout,org.kde.plasma.notifications
 hiddenItems=org.kde.plasma.clipboard,org.kde.plasma.printmanager,org.kde.plasma.brightness,org.kde.kdeconnect,org.kde.plasma.keyboardlayout
 knownItems=org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.vault,org.kde.plasma.weather,org.kde.kscreen,org.kde.plasma.mediacontroller,org.kde.plasma.volume
 shownItems=org.kde.plasma.notifications
